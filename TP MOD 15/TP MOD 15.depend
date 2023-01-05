@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1672550659 source:c:\users\tfr\onedrive\documents\2. 3. struktur data\bruh\tp mod 15\main.cpp
+	"Tree.h"
+
+1672550317 c:\users\tfr\onedrive\documents\2. 3. struktur data\bruh\tp mod 15\tree.h
+	<iostream>
+
+1672550332 source:c:\users\tfr\onedrive\documents\2. 3. struktur data\bruh\tp mod 15\tree.cpp
+	"Tree.h"
+
